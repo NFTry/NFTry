@@ -1,0 +1,6 @@
+[submodule "nftry-web"]
+	path = nftry-web
+	url = git@github.com:NFTry/NFTry-web.git
+[submodule "nftry-contract"]
+	path = nftry-contract
+	url = git@github.com:NFTry/NFTry-contract.git
