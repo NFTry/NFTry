@@ -4,3 +4,6 @@
 [submodule "nftry-contract"]
 	path = nftry-contract
 	url = git@github.com:NFTry/NFTry-contract.git
+[submodule "nftry-luniverse-gateway"]
+	path = nftry-luniverse-gateway
+	url = git@github.com:NFTry/NFTry-luniverse-gateway.git
